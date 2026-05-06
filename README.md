@@ -79,8 +79,8 @@ Top-performing product(s)
 
 Highest revenue-generating category
 
-Peak business hours
+Peak business month
 
-Monthly growth/decline trends 
+Monthly growth
 
 
