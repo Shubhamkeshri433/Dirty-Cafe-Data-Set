@@ -1,4 +1,5 @@
 # ☕ Dirty Cafe Sales Data Analysis 
+![Dirty-cafe-sales-dashboard](/Visuals/Screenshot%20(174).PNG)
  
 # 📌 Overview
 
