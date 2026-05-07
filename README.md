@@ -1,12 +1,13 @@
 # ☕ Dirty Cafe Sales Data Analysis 
-![Dirty-cafe-sales-dashboard](/Visuals/Screenshot%20(174).PNG)
- 
 # 📌 Overview
 
 **This project focuses on analyzing a dirty (unclean) cafe sales dataset. The dataset contains various inconsistencies such as missing values, incorrect formats, and duplicate entries.**
 
 *The goal is to clean, transform, and analyze the data to extract meaningful business insights.*
 
+# Dashboard 
+![Dirty-cafe-sales-dashboard](/Visuals/Screenshot%20(174).PNG)
+ 
 # 📂 Dataset Description
 
 **The dataset includes typical cafe sales information such as:**
