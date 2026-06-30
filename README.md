@@ -6,9 +6,31 @@
 # Dashboard 
 ![Dirty-cafe-sales-dashboard](/Visuals/Screenshot%20(174).PNG)
 
-# REPORT
-![PDF REPORT](/Report/Dirty_Cafe_Data_Set_Report.pdf)
- 
+
+## 📄 Project Report
+
+<div align="center">
+
+# 📕 Dirty Cafe Sales Dataset Analysis Report
+
+A comprehensive report covering:
+
+✅ Data Cleaning Process   
+✅ Microsoft Excel Analysis  
+✅ Dashboard  
+✅ Business Insights  
+✅ Business Recommendations
+
+<br>
+
+<a href="https://github.com/Shubhamkeshri433/Dirty-Cafe-Data-Set/raw/main/Report/Dirty_Cafe_Data_Set_Report.pdf">
+  <img src="https://img.shields.io/badge/⬇️%20Download%20PDF-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download PDF"/>
+</a>
+
+</div>
+
+
+
 # 📂 Dataset Description
 
 **The dataset includes typical cafe sales information such as:**
