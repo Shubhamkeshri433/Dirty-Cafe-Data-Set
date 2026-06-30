@@ -5,6 +5,9 @@
 
 # Dashboard 
 ![Dirty-cafe-sales-dashboard](/Visuals/Screenshot%20(174).PNG)
+
+# REPORT
+![PDF REPORT](/Report/Dirty_Cafe_Data_Set_Report.pdf)
  
 # 📂 Dataset Description
 
